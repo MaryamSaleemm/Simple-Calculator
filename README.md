@@ -2,8 +2,6 @@
 
 A basic calculator program that performs arithmetic operations. Great for beginners learning programming and working with logic and functions.
 
----
-
 ## 🚀 Features
 - Addition
 - Subtraction
@@ -12,14 +10,10 @@ A basic calculator program that performs arithmetic operations. Great for beginn
 - User-friendly input prompts
 - Error handling (e.g. divide by zero)
 
----
-
 ## 🛠 Technologies Used
 - Programming Language: [Java]
 - Text Editor: IntelliJ 
 - Git & GitHub for version control
-
----
 
 ## 📦 How to Use
 
