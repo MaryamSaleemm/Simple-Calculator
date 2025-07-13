@@ -26,4 +26,4 @@ A basic calculator program that performs arithmetic operations. Great for beginn
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/MaryamSaleemm/Simple-Calculator.git
-   cd sSimple-Calculator
+   cd Simple-Calculator
