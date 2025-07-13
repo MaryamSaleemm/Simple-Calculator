@@ -7,7 +7,6 @@ A basic calculator program that performs arithmetic operations. Great for beginn
 - Subtraction
 - Multiplication
 - Division
-- User-friendly input prompts
 - Error handling (e.g. divide by zero)
 
 ## 🛠 Technologies Used
